@@ -13,3 +13,5 @@ git checkout master
 git pull origin master
 
 While resolving conflicts dont add comment
+
+To add all files git add .
