@@ -1,0 +1,15 @@
+git - program which allows u to iteract
+github- cloud repo for a provider
+gitrepositry - a folder
+
+
+
+ls 
+
+git add :: added to stage for commit 
+git commit
+git push
+git checkout master
+git pull origin master
+
+While resolving conflicts dont add comment
